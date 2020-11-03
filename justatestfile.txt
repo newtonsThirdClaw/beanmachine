@@ -1,3 +1,2 @@
 # this is a test file to see if git is working right
-
-this is aa new change bro
+this was changed on github.com
